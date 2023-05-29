@@ -1,0 +1,3 @@
+hello 
+im learning git
+its difficult to learn
