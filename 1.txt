@@ -1,4 +1,4 @@
-hello 
+hello and hello 
 im learning git
 its difficult to learn
 making it fetch 
